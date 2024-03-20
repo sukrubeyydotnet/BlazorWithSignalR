@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET_Projects\\SignalRWithBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F830836-13BF-43E2-B137-D018C7DB8E7B}|SignalRWithBlazor\\SignalRWithBlazor.Client\\SignalRWithBlazor.Client.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|d:\\.net_projects\\signalrwithblazor\\signalrwithblazor\\signalrwithblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB670A4F-AF22-4FA1-B63E-F06876C5032F}|SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.csproj|solutionrelative:signalrwithblazor\\signalrwithblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:38:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor.Client\\wwwroot\\appsettings.json",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor.Client\\wwwroot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T13:38:25.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Chat.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Pages\\Chat.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:37:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Program.cs",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\Program.cs",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:37:45.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor.Client\\_Imports.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor.Client\\_Imports.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:37:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:24:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\_Imports.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:20:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor\\Program.cs",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Program.cs",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:19:48.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\App.razor",
+              "ToolTip": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\Components\\App.razor",
+              "RelativeToolTip": "SignalRWithBlazor\\SignalRWithBlazor\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:19:08.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

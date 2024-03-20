@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWithBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignalRWithBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\.NET_Projects\\SignalRWithBlazor\\SignalRWithBlazor\\SignalRWithBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRWithBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalRWithBlazor.props",
+      "PackagePath": "build\\SignalRWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRWithBlazor.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalRWithBlazor.props",
+      "PackagePath": "buildTransitive\\SignalRWithBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
